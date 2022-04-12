@@ -16,10 +16,6 @@
         <id>releases</id>
         <url>https://github.com/ericcarlotto/t1_testeUnidade/releases</url>
     </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <url>https://github.com/ericcarlotto/t1_testeUnidade/snapshots</url>
-    </snapshotRepository>
 </distributionManagement>
 
     <dependencyManagement>
